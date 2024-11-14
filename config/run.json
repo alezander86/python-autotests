@@ -1,0 +1,10 @@
+{
+    "suites": {
+      "suite1": [
+        {"name": "test1", "endpoint": "https://example1.com"}
+      ],
+      "suite2": [
+        {"name": "test3", "endpoint": "https://example3.com"}
+      ]
+    }
+  }
