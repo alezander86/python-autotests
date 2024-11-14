@@ -1,3 +1,4 @@
+```
 autotests/
 ├── config/
 │   └── run.json              # JSON file with test suite and endpoint configuration
@@ -9,3 +10,4 @@ autotests/
 ├── scripts/
 │   └── run_tests.py          # Main Python script to parse run.json and execute tests
 └── requirements.txt          # Python dependencies for test scripts, if needed
+```
